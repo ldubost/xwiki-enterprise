@@ -37,6 +37,7 @@
     <res id="Installer.image.7" src="${xwiki.border8.png}" />
     <res id="ImgPacksPanel.img.0" src="${xwiki.core.png}" />
     <res id="ImgPacksPanel.img.1" src="${xwiki.core.png}" />
+    <res id="TargetPanel.dir.windows" src="default-dir-windows.txt"/>
   </resources>
   <panels>
     <panel classname="CheckedHelloPanel" id="hellopanel"/>
